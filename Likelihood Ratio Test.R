@@ -1,6 +1,6 @@
-###################################
-# ANOVA 3 factors using DE-Seq2 
-###################################
+#####################################
+# Likelihood Ratio Test using DE-Seq2
+#####################################
 
 if (!requireNamespace("BiocManager", quietly = TRUE))
 install.packages("BiocManager")
